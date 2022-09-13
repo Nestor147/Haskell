@@ -1,0 +1,1 @@
+area x y = x * y

@@ -1,0 +1,1 @@
+pulgadas m = m / 0.0254

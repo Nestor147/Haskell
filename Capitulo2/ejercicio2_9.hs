@@ -1,0 +1,1 @@
+sueldo h p = h * p
