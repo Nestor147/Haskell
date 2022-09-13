@@ -1,0 +1,1 @@
+cheque d h c = (h+c+100)*d

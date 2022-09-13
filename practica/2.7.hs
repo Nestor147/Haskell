@@ -1,0 +1,1 @@
+costoViaje kr ck = kr*ck

@@ -1,0 +1,1 @@
+area l = l * l

@@ -1,0 +1,1 @@
+cobro p m2= p * m2

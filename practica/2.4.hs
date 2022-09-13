@@ -1,0 +1,1 @@
+cobro precioHora hora = (round hora)*precioHora --round es una funcion para redondear un numero

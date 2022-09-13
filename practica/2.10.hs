@@ -1,0 +1,1 @@
+pago precioM3 cantidadM3= precioM3 * cantidadM3
